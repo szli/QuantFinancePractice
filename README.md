@@ -3,7 +3,7 @@ These are several projects I have done in quantitative finance area. The project
 
 For most of the current projects, the goal is to practise and understanding well known theory or methodology, rather than looking for "alpha". The workload and nature of the projects are close to or have higher requirements than course projects at graduate level courses. 
 
-Primary language is Python, at least for now. 
+Primary language is Python, at least for now. IPython Notebook is the primary dev tool for now. The easist way to view the project is to view the ipynb file in github. 
 
 List of projects:
 
